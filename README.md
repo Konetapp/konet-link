@@ -19,8 +19,8 @@ Si vous souhaiter installer avec l'APK, assurez vous d'avoir autorisé(e) l'inst
 
 4. Une fois le téléchargement fait depuis Zanime, retourner sur le projet Glitch, et aller dans "Assets", faite "upload an asset" et sélectionner la vidéo, le téléchargement sera plutôt long, assurez vous d'avoir une bonne connexion Wifi
 
-5. Une fois fait, revenez sur ce github, aller dans [link-list.json](https://github.com/Konetapp/konet-link/blob/main/list-link.json) et ajouter votre lien avec ce modèle: ```
-{
+5. Une fois fait, aller sur gihtub, et faite une "Pull requests" pour que je vous ajoute sur le projet Github
+6. Une fois ajouté(e) aller dans [link-list.json](https://github.com/Konetapp/konet-link/blob/main/list-link.json) et ajouter votre lien avec ce modèle: ```{
 "nom": "nom de l'animé",
 "épisode (Le numéro de l'épisode)": "Lien URL du fichier qui doit ressembler à https://cdn.glitch.global/ ou .com"
 }```
